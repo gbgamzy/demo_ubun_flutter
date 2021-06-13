@@ -38,12 +38,6 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "convert",
-      "rootUri": "file:///Users/gautambhateja/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/convert-2.1.1",
-      "packageUri": "lib/",
-      "languageVersion": "1.17"
-    },
-    {
       "name": "crypto",
       "rootUri": "file:///Users/gautambhateja/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/crypto-3.0.1",
       "packageUri": "lib/",
@@ -52,6 +46,12 @@
     {
       "name": "cupertino_icons",
       "rootUri": "file:///Users/gautambhateja/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/cupertino_icons-1.0.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "fading_edge_scrollview",
+      "rootUri": "file:///Users/gautambhateja/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/fading_edge_scrollview-2.0.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -81,9 +81,9 @@
     },
     {
       "name": "flutter_svg",
-      "rootUri": "file:///Users/gautambhateja/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_svg-0.12.4+2",
+      "rootUri": "file:///Users/gautambhateja/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_svg-0.22.0",
       "packageUri": "lib/",
-      "languageVersion": "2.0"
+      "languageVersion": "2.12"
     },
     {
       "name": "flutter_test",
@@ -110,6 +110,18 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "loop_page_view",
+      "rootUri": "file:///Users/gautambhateja/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/loop_page_view-1.0.11",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    },
+    {
+      "name": "marquee",
+      "rootUri": "file:///Users/gautambhateja/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/marquee-2.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "matcher",
       "rootUri": "file:///Users/gautambhateja/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/matcher-0.12.10",
       "packageUri": "lib/",
@@ -129,15 +141,15 @@
     },
     {
       "name": "path_drawing",
-      "rootUri": "file:///Users/gautambhateja/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/path_drawing-0.4.1+1",
+      "rootUri": "file:///Users/gautambhateja/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/path_drawing-0.5.1",
       "packageUri": "lib/",
-      "languageVersion": "1.19"
+      "languageVersion": "2.12"
     },
     {
       "name": "path_parsing",
-      "rootUri": "file:///Users/gautambhateja/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/path_parsing-0.1.4",
+      "rootUri": "file:///Users/gautambhateja/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/path_parsing-0.2.1",
       "packageUri": "lib/",
-      "languageVersion": "1.19"
+      "languageVersion": "2.12"
     },
     {
       "name": "path_provider",
@@ -177,9 +189,9 @@
     },
     {
       "name": "petitparser",
-      "rootUri": "file:///Users/gautambhateja/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/petitparser-3.1.0",
+      "rootUri": "file:///Users/gautambhateja/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/petitparser-4.1.0",
       "packageUri": "lib/",
-      "languageVersion": "2.7"
+      "languageVersion": "2.12"
     },
     {
       "name": "platform",
@@ -255,7 +267,7 @@
     },
     {
       "name": "win32",
-      "rootUri": "file:///Users/gautambhateja/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/win32-2.1.3",
+      "rootUri": "file:///Users/gautambhateja/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/win32-2.1.5",
       "packageUri": "lib/",
       "languageVersion": "2.13"
     },
@@ -267,9 +279,9 @@
     },
     {
       "name": "xml",
-      "rootUri": "file:///Users/gautambhateja/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/xml-3.7.0",
+      "rootUri": "file:///Users/gautambhateja/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/xml-5.1.2",
       "packageUri": "lib/",
-      "languageVersion": "2.7"
+      "languageVersion": "2.12"
     },
     {
       "name": "demo_ubun",
@@ -278,7 +290,7 @@
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2021-06-08T07:48:13.707029Z",
+  "generated": "2021-06-09T19:59:48.317509Z",
   "generator": "pub",
-  "generatorVersion": "2.13.0"
+  "generatorVersion": "2.13.1"
 }
