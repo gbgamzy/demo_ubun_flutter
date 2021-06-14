@@ -10,7 +10,7 @@
 /// date : "04 06 2021 07.35"
 /// deliveryBoy : "8360468300"
 /// status : "C"
-class Orders {
+class Order {
 
   int? OID;
   String? name;
@@ -25,9 +25,9 @@ class Orders {
   String? deliveryBoy;
   String? status;
 
-  Orders();
+  Order();
 
-  Orders.constructorSet(
+  Order.constructorSet(
       this.OID,
       this.name,
       this.phone,
@@ -41,9 +41,9 @@ class Orders {
       this.deliveryBoy,
       this.status);
 
-  static Orders? fromMap(Map<String, dynamic> map) {
+  static Order? fromMap(Map<String, dynamic> map) {
     if (map == null) return null;
-    Orders ordersBean = Orders();
+    Order ordersBean = Order();
     ordersBean.OID = map['OID'];
     ordersBean.name = map['name'];
     ordersBean.phone = map['phone'];

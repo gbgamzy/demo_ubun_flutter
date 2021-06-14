@@ -9,9 +9,9 @@ import 'dataClasses/orders.dart';
 
 class HomePage extends StatelessWidget {
 
-  Orders order=Orders.constructorSet(1,"Gautam","7009516346","Bhateja Mansion",
+  Order order=Order.constructorSet(1,"Gautam","7009516346","Bhateja Mansion",
   "Abohar Road,Street no. 12",30,30,"Chhole Bhature ",100,"02 04","7009516346","A");
-  final list = List<Orders>.generate(100, (index) => Orders.constructorSet(1,"Gautam","7009516346","Bhateja Mansion",
+  final list = List<Order>.generate(100, (index) => Order.constructorSet(1,"Gautam","7009516346","Bhateja Mansion",
       "Abohar Road,Street no. 12",30,30,"Chhole Bhature ",100,"02 04","7009516346","A"));
 
 
