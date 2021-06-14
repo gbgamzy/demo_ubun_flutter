@@ -139,8 +139,8 @@ class TicketOrders extends StatelessWidget {
                           Padding(
                             padding: const EdgeInsets.all(6.0),
                             child: CircleAvatar(
-                              backgroundColor: Colors.blue.shade700,
-                              child:Icon(CupertinoIcons.phone_down),
+                              backgroundColor: Colors.red.shade600,
+                              child:Icon(CupertinoIcons.person_2_fill),
                               radius: 30,
 
                             ),
@@ -148,8 +148,8 @@ class TicketOrders extends StatelessWidget {
                           Padding(
                             padding: const EdgeInsets.all(6.0),
                             child: CircleAvatar(
-                              backgroundColor: Colors.blue.shade700,
-                              child:Icon(CupertinoIcons.phone_down),
+                              backgroundColor: Colors.green,
+                              child:Icon(CupertinoIcons.train_style_one),
                               radius: 30,
 
                             ),
