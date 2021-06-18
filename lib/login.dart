@@ -14,6 +14,7 @@ class _LoginPageState extends State<LoginPage> {
   String name="";
   bool changeButton=false;
 
+
   final _formKey = GlobalKey<FormState>();
 
   moveToHome() async{
@@ -42,32 +43,23 @@ class _LoginPageState extends State<LoginPage> {
 
                 children: [
                   SizedBox(
-                    height: 120,
+                    height: 60,
                   ),
                   Padding(
-                    padding: EdgeInsetsDirectional.fromSTEB(40, 0, 0, 0),
+                    padding: const EdgeInsets.fromLTRB(16.0,0,0,0),
                     child: Image.asset("assets/images/app_icon.png",
+                       scale:1.3,
+
 
                     ),
                   ),
                   SizedBox(
                     height: 40,
                   ),
-                 Text("Welcome $name",
-                    style: TextStyle(
-                      fontSize: 30,
-                      fontWeight: FontWeight.bold
-
-                    ),
 
 
-
-                  ),
-                  SizedBox(
-                    height: 40,
-                  ),
                   Padding(
-                    padding: const EdgeInsets.symmetric(vertical: 0,horizontal: 32.0),
+                    padding: const EdgeInsets.symmetric(vertical: 0,horizontal: 50.0),
                     child: TextFormField(
                       decoration: InputDecoration(
                         hintText: "Enter your name",
@@ -90,8 +82,10 @@ class _LoginPageState extends State<LoginPage> {
                     ),
                   ),
                   Padding(
-                    padding: const EdgeInsets.symmetric(vertical: 16.0,horizontal: 32.0),
+                    padding: const EdgeInsets.symmetric(vertical: 16.0,horizontal: 50.0),
                     child: TextFormField(
+                      keyboardType: TextInputType.phone,
+
                       decoration: InputDecoration(
                         hintText: "Enter your phone number",
                         labelText: "Phone number",
@@ -107,10 +101,10 @@ class _LoginPageState extends State<LoginPage> {
                     ),
                   ),
 
-                  SizedBox(height: 80,),
+                  SizedBox(height: 40,),
                   Material(
-                    color: Colors.red[400],
-                    borderRadius: changeButton?BorderRadius.circular(40):BorderRadius.circular(3),
+                    color: Colors.indigo,
+                    borderRadius: changeButton?BorderRadius.circular(40):BorderRadius.circular(10),
                     child: InkWell(
                       splashColor: Colors.white,
                       onTap: ()=>moveToHome()

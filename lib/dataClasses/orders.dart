@@ -41,7 +41,7 @@ class Order {
       this.deliveryBoy,
       this.status);
 
-  static Order? fromMap(Map<String, dynamic> map) {
+  static Order? fromMap(Map<String, dynamic>? map) {
     if (map == null) return null;
     Order ordersBean = Order();
     ordersBean.OID = map['OID'];
