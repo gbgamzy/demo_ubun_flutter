@@ -1,7 +1,7 @@
-#Fri Jun 18 15:41:10 IST 2021
-base.1=/Users/gautambhateja/Desktop/Flutter/demo_ubun/build/app/intermediates/dex/debug/mergeDexDebug/classes2.dex
+#Fri Jun 18 17:11:54 IST 2021
+base.1=C\:\\Users\\bhate\\AndroidStudioProjects\\demo_ubun_flutter1\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes2.dex
 path.1=classes2.dex
-base.0=/Users/gautambhateja/Desktop/Flutter/demo_ubun/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+base.0=C\:\\Users\\bhate\\AndroidStudioProjects\\demo_ubun_flutter1\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
 path.0=classes.dex
