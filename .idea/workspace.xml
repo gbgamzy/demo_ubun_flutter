@@ -17,15 +17,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8629a7f8-99c4-42d6-9d63-13a5b812cb70" name="Default Changelist" comment="LoginPage mark2">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/package_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/package_config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/package_config_subset" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/package_config_subset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.flutter-plugins" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.packages" beforeDir="false" afterPath="$PROJECT_DIR$/.packages" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623645694019</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="LoginPage mark2">
+      <created>1624027829550</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1624027829550</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -192,11 +191,11 @@
     </state>
     <state x="229" y="49" key="SettingsEditor/0.0.1440.843@0.0.1440.843" timestamp="1624027227182" />
     <state x="229" y="50" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1624016113080" />
-    <state x="304" y="126" key="Vcs.Push.Dialog.v2" timestamp="1624017523069">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="320" y="146" key="Vcs.Push.Dialog.v2" timestamp="1624027832248">
+      <screen x="0" y="0" width="1440" height="843" />
     </state>
     <state x="304" y="126" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1624017523069" />
-    <state x="320" y="146" key="Vcs.Push.Dialog.v2/0.0.1440.843@0.0.1440.843" timestamp="1623645728431" />
+    <state x="320" y="146" key="Vcs.Push.Dialog.v2/0.0.1440.843@0.0.1440.843" timestamp="1624027832248" />
     <state x="527" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1624027268237">
       <screen x="0" y="0" width="1440" height="843" />
     </state>
